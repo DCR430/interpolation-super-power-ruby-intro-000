@@ -9,4 +9,3 @@ def display_rainbow (['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'vio
   puts"I: #{colors[5]}"
   puts"V: #{colors[6]}"
 end
-display_rainbow['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
